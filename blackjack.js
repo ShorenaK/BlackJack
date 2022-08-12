@@ -40,7 +40,6 @@ function kickOffGame() {
   let cardTwodDl = shuffleNewCard()
   cardDeckDl = [cardOneDl, cardTwodDl]
   sumDlCards = cardOneDl + cardTwodDl
-
   renderGame()
 }
 // function to dipslay the messages / render the game
