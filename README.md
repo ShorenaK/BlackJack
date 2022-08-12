@@ -27,4 +27,4 @@ https://shorenak.github.io/SEI-BlackJack/
 
 
 Roadmap:
-I do not anticipate to change anything on this project, I would like leave it as a reminder of my first step of this meaningful and remarkable journey. 
+I do not anticipate to change anything on this project, I would like to leave it as a reminder of my first step of this meaningful and remarkable journey. 
