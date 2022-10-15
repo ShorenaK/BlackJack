@@ -23,7 +23,8 @@ For any questions regarding this project, please email me directly at shorenaanz
 
 Link to Game:
 
-https://shorenak.github.io/SEI-BlackJack/
+
+https://shorenak.github.io/BlackJack/
 
 
 Roadmap:
